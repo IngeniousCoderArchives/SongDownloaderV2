@@ -1,8 +1,8 @@
+If you liked this, star the repository!
+
 # Python Song Downloader
 
-This is a simple application used to download multiple songs into .mp3, to the same directory as the code.
-
-This tool downloads the files through a youtube playlist, one by one. 
+This is a simple application used to download songs into .mp3, to the same directory as the code.
 
 ## Installation
 
@@ -13,7 +13,7 @@ Run `setup.py` in the directory.
 
 ## Running the code
 
-Just run run.bat . Follow the instructions
+Just run `run.bat` . Follow the instructions. To exit, close the window or press exit.
 
 # Donate to me!
 
