@@ -21,4 +21,4 @@ Like the tool? Feel free to donate to us then! https://patreon.com/eltontay11
 
 # Support
 
-https://discord.gg/cCBTHWE OR Submit a Issue 
+Open a ticket here, or email eltontay11@gmail.com . 
