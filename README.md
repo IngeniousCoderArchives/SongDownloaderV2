@@ -1,24 +1,49 @@
-If you liked this, star the repository!
 
+Another Application by IngeniousApplications
+![IA Logo](http://ingeniousapps.tk/cdn/IA_Logo.png)
+
+[Discord](http://ingeniousapps.tk/discord)
+
+[Website](http://ingeniousapps.tk)
+
+[Donate to us](https://patreon.com/eltontay11)
 # Python Song Downloader
-
 This is a simple application used to download songs into .mp3, to the same directory as the code.
 
-## Installation
+
+## Author
+
+- XtremeCoder
+
+## Setup
 
 Run `setup.py` in the directory.
 
 **DO NOT REMOVE ANY FILES IN THE DIRECTORY. ALL THE FILES PLAY A PURPOSE.**
 
 
-## Running the code
+## Installation
 
-Just run `run.bat` . Follow the instructions. To exit, close the window or press exit.
+Run `run.bat` to start the app. No installation is required!
 
-# Donate to me!
+## Dependencies
 
-Like the tool? Feel free to donate to us then! https://patreon.com/eltontay11
+- python
+- youtube_dl
+- ffmpeg and ffprobe
 
-# Support
+### FFMPEG AND FFPROBE
 
-Open a ticket here, or email eltontay11@gmail.com . 
+These files must be downloaded and placed in the same directory as the files from this repository.
+
+- [Click here to download ffmpeg](http://ingeniousapps.tk/cdn/ffmpeg.exe)
+- [Click here to download ffprobe](http://ingeniousapps.tk/cdn/ffprobe.exe)
+
+### Bug Reporting and Feature Requesting
+Use the Issues tab under this repository to report bugs and suggest features.
+
+## Credits 
+Youtube_DL 
+
+Another Quality Application by IngeniousApplications
+
