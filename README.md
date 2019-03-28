@@ -1,6 +1,6 @@
 
 Another Application by IngeniousApplications
-![IA Logo](https://www.ingeniousapps.net/cdn/IA_Logo2.png)
+![IA Logo](https://www.ingeniousapps.net/cdn/IALogo.png)
 
 [Discord](https://www.ingeniousapps.net/discord)
 
